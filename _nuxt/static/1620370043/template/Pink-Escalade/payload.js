@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Pink-Escalade", {data:[{}],fetch:[],mutations:[]});

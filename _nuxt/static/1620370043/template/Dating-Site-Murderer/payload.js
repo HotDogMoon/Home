@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Dating-Site-Murderer", {data:[{}],fetch:[],mutations:[]});

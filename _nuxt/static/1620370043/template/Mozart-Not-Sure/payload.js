@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mozart-Not-Sure", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Jehovas-Witness-Squirrel", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Persian-Cat-Room-Guardian-Single", {data:[{}],fetch:[],mutations:[]});

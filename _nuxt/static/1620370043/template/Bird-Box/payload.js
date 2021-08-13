@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bird-Box", {data:[{}],fetch:[],mutations:[]});

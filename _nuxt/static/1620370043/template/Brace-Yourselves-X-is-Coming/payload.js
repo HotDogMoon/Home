@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Brace-Yourselves-X-is-Coming", {data:[{}],fetch:[],mutations:[]});

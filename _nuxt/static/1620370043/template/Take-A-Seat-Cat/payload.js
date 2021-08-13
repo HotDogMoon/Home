@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Take-A-Seat-Cat", {data:[{}],fetch:[],mutations:[]});

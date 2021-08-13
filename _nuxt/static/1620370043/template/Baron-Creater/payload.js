@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Baron-Creater", {data:[{}],fetch:[],mutations:[]});

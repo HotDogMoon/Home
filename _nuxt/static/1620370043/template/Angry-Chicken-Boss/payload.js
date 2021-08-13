@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Angry-Chicken-Boss", {data:[{}],fetch:[],mutations:[]});

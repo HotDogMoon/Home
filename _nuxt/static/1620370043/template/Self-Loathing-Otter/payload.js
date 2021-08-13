@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Self-Loathing-Otter", {data:[{}],fetch:[],mutations:[]});

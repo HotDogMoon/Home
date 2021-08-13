@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/American-Chopper-Argument", {data:[{}],fetch:[],mutations:[]});

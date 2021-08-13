@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/You-Were-The-Chosen-One-Star-Wars", {data:[{}],fetch:[],mutations:[]});

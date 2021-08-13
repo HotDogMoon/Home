@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Barack-And-Kumar-2013", {data:[{}],fetch:[],mutations:[]});

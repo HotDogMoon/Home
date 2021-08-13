@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Trump-Bill-Signing", {data:[{}],fetch:[],mutations:[]});

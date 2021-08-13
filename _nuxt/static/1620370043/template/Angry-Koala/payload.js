@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Angry-Koala", {data:[{}],fetch:[],mutations:[]});

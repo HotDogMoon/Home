@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Unicorn-MAN", {data:[{}],fetch:[],mutations:[]});

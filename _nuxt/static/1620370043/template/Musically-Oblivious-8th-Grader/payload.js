@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Musically-Oblivious-8th-Grader", {data:[{}],fetch:[],mutations:[]});

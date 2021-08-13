@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Original-Stoner-Dog", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Roll-Safe-Think-About-It", {data:[{}],fetch:[],mutations:[]});

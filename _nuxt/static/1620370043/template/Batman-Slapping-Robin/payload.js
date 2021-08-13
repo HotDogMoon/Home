@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Batman-Slapping-Robin", {data:[{}],fetch:[],mutations:[]});

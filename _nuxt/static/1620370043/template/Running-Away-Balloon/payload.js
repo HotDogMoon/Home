@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Running-Away-Balloon", {data:[{}],fetch:[],mutations:[]});

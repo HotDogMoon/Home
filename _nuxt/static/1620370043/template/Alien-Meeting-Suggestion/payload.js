@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Alien-Meeting-Suggestion", {data:[{}],fetch:[],mutations:[]});

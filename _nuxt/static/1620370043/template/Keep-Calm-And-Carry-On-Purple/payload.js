@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Keep-Calm-And-Carry-On-Purple", {data:[{}],fetch:[],mutations:[]});

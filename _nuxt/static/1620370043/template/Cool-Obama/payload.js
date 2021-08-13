@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Cool-Obama", {data:[{}],fetch:[],mutations:[]});

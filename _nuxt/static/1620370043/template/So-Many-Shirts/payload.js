@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/So-Many-Shirts", {data:[{}],fetch:[],mutations:[]});

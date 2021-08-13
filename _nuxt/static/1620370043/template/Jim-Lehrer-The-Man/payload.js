@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Jim-Lehrer-The-Man", {data:[{}],fetch:[],mutations:[]});

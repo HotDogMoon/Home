@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Internet-Explorer", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/The-Rock-Driving", {data:[{}],fetch:[],mutations:[]});

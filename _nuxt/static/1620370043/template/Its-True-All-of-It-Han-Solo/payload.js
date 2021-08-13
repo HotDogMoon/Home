@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Its-True-All-of-It-Han-Solo", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Marvel-Civil-War", {data:[{}],fetch:[],mutations:[]});

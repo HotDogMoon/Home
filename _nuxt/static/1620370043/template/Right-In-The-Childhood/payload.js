@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Right-In-The-Childhood", {data:[{}],fetch:[],mutations:[]});

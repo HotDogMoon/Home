@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Invalid-Argument-Vader", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Paranoid-Parrot", {data:[{}],fetch:[],mutations:[]});

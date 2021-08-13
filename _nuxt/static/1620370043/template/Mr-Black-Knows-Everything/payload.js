@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mr-Black-Knows-Everything", {data:[{}],fetch:[],mutations:[]});

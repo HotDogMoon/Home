@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Challenge-Accepted-Rage-Face", {data:[{}],fetch:[],mutations:[]});

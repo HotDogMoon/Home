@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Spiderman-Hospital", {data:[{}],fetch:[],mutations:[]});

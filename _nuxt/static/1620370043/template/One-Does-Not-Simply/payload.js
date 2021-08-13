@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/One-Does-Not-Simply", {data:[{}],fetch:[],mutations:[]});

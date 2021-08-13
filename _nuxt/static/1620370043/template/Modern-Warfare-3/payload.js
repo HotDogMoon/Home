@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Modern-Warfare-3", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Relaxed-Office-Guy", {data:[{}],fetch:[],mutations:[]});

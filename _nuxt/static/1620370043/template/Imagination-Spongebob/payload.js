@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Imagination-Spongebob", {data:[{}],fetch:[],mutations:[]});

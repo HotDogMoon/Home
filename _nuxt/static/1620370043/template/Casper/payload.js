@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Casper", {data:[{}],fetch:[],mutations:[]});

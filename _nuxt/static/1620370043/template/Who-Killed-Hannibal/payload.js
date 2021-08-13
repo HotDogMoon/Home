@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Who-Killed-Hannibal", {data:[{}],fetch:[],mutations:[]});

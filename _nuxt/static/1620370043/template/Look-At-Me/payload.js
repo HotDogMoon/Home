@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Look-At-Me", {data:[{}],fetch:[],mutations:[]});

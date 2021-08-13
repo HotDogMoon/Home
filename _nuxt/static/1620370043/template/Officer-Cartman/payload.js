@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Officer-Cartman", {data:[{}],fetch:[],mutations:[]});

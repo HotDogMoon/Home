@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/College-Liberal", {data:[{}],fetch:[],mutations:[]});

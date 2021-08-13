@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bonobo-Lyfe", {data:[{}],fetch:[],mutations:[]});

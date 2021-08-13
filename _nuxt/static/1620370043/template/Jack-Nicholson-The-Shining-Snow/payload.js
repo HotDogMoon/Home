@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Jack-Nicholson-The-Shining-Snow", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Austin-Powers-Honestly", {data:[{}],fetch:[],mutations:[]});

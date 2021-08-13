@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Today-Was-A-Good-Day", {data:[{}],fetch:[],mutations:[]});

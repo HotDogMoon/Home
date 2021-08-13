@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Slick-Fry", {data:[{}],fetch:[],mutations:[]});

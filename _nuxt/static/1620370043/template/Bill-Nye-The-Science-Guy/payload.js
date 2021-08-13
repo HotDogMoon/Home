@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bill-Nye-The-Science-Guy", {data:[{}],fetch:[],mutations:[]});

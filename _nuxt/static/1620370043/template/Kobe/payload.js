@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Kobe", {data:[{}],fetch:[],mutations:[]});

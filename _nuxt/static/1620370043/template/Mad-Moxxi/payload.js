@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mad-Moxxi", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Tech-Impaired-Duck", {data:[{}],fetch:[],mutations:[]});

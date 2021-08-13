@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Fast-Furious-Johnny-Tran", {data:[{}],fetch:[],mutations:[]});

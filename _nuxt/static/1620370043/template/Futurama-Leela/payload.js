@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Futurama-Leela", {data:[{}],fetch:[],mutations:[]});

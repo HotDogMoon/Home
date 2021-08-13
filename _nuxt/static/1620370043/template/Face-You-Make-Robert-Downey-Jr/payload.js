@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Face-You-Make-Robert-Downey-Jr", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/South-Park-Craig", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Scumbag-Brain", {data:[{}],fetch:[],mutations:[]});

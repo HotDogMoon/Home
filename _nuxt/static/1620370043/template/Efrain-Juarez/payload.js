@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Efrain-Juarez", {data:[{}],fetch:[],mutations:[]});

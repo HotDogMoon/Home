@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Thats-Just-Something-X-Say", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Is-This-A-Pigeon", {data:[{}],fetch:[],mutations:[]});

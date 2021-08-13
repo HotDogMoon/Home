@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Team-Rocket", {data:[{}],fetch:[],mutations:[]});

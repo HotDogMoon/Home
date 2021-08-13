@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Metal-Jesus", {data:[{}],fetch:[],mutations:[]});

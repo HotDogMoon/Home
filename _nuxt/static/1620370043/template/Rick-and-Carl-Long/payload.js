@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Rick-and-Carl-Long", {data:[{}],fetch:[],mutations:[]});

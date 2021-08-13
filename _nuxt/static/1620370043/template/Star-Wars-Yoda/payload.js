@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Star-Wars-Yoda", {data:[{}],fetch:[],mutations:[]});

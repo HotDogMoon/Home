@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Put-It-Somewhere-Else-Patrick", {data:[{}],fetch:[],mutations:[]});

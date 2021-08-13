@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Friend-Zone-Fiona", {data:[{}],fetch:[],mutations:[]});

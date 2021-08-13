@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Chef-Gordon-Ramsay", {data:[{}],fetch:[],mutations:[]});

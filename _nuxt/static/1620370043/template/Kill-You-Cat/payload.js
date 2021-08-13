@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Kill-You-Cat", {data:[{}],fetch:[],mutations:[]});

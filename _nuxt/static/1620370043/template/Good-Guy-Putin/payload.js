@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Good-Guy-Putin", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Harmless-Scout-Leader", {data:[{}],fetch:[],mutations:[]});

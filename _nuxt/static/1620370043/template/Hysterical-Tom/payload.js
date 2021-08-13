@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Hysterical-Tom", {data:[{}],fetch:[],mutations:[]});

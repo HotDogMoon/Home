@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/But-Thats-None-Of-My-Business-Neutral", {data:[{}],fetch:[],mutations:[]});

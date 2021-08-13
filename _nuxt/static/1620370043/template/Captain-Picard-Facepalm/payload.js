@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Captain-Picard-Facepalm", {data:[{}],fetch:[],mutations:[]});

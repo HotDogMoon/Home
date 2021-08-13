@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mario-Hammer-Smash", {data:[{}],fetch:[],mutations:[]});

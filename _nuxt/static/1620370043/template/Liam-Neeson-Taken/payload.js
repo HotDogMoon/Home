@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Liam-Neeson-Taken", {data:[{}],fetch:[],mutations:[]});

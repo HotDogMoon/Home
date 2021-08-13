@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Surprized-Vegeta", {data:[{}],fetch:[],mutations:[]});

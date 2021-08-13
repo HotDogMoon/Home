@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Oprah-You-Get-A-Car-Everybody-Gets-A-Car", {data:[{}],fetch:[],mutations:[]});

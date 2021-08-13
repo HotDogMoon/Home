@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Ermahgerd-Berks", {data:[{}],fetch:[],mutations:[]});

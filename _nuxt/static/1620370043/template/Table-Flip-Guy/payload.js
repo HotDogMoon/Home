@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Table-Flip-Guy", {data:[{}],fetch:[],mutations:[]});

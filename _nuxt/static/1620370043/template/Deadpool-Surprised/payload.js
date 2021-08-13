@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Deadpool-Surprised", {data:[{}],fetch:[],mutations:[]});

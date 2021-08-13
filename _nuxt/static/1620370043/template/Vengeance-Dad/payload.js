@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Vengeance-Dad", {data:[{}],fetch:[],mutations:[]});

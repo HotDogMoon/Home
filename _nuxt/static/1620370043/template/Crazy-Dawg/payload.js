@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Crazy-Dawg", {data:[{}],fetch:[],mutations:[]});

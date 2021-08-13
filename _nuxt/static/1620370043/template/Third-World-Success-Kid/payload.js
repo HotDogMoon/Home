@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Third-World-Success-Kid", {data:[{}],fetch:[],mutations:[]});

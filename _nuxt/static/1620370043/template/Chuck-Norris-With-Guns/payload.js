@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Chuck-Norris-With-Guns", {data:[{}],fetch:[],mutations:[]});

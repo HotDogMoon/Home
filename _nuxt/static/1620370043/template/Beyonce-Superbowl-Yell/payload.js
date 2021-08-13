@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Beyonce-Superbowl-Yell", {data:[{}],fetch:[],mutations:[]});

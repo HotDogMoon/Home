@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Sparta-Leonidas", {data:[{}],fetch:[],mutations:[]});

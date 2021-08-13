@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Alright-Gentlemen-We-Need-A-New-Idea", {data:[{}],fetch:[],mutations:[]});

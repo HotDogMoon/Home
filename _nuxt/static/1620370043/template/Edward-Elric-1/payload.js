@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Edward-Elric-1", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/College-Freshman", {data:[{}],fetch:[],mutations:[]});

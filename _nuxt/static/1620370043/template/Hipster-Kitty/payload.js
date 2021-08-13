@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Hipster-Kitty", {data:[{}],fetch:[],mutations:[]});

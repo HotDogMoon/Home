@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Hide-the-Pain-Harold", {data:[{}],fetch:[],mutations:[]});

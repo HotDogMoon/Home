@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Foul-Bachelor-Frog", {data:[{}],fetch:[],mutations:[]});

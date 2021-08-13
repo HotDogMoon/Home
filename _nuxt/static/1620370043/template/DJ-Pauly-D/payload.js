@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/DJ-Pauly-D", {data:[{}],fetch:[],mutations:[]});

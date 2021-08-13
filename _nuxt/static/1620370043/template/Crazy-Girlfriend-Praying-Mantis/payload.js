@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Crazy-Girlfriend-Praying-Mantis", {data:[{}],fetch:[],mutations:[]});

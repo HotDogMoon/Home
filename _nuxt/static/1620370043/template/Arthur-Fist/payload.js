@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Arthur-Fist", {data:[{}],fetch:[],mutations:[]});

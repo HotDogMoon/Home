@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mother-Of-God", {data:[{}],fetch:[],mutations:[]});

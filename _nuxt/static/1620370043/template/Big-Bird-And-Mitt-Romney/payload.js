@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Big-Bird-And-Mitt-Romney", {data:[{}],fetch:[],mutations:[]});

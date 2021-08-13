@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Dr-Evil-Laser", {data:[{}],fetch:[],mutations:[]});

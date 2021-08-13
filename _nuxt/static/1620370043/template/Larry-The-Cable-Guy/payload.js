@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Larry-The-Cable-Guy", {data:[{}],fetch:[],mutations:[]});

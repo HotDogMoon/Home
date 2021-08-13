@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/First-World-Stoner-Problems", {data:[{}],fetch:[],mutations:[]});

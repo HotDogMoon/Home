@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Hot-Caleb", {data:[{}],fetch:[],mutations:[]});

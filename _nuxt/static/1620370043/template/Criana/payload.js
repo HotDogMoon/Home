@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Criana", {data:[{}],fetch:[],mutations:[]});

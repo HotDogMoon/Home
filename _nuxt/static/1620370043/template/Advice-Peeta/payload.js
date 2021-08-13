@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Advice-Peeta", {data:[{}],fetch:[],mutations:[]});

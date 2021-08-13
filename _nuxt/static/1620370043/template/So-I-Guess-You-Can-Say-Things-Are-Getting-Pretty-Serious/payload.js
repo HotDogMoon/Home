@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/So-I-Guess-You-Can-Say-Things-Are-Getting-Pretty-Serious", {data:[{}],fetch:[],mutations:[]});

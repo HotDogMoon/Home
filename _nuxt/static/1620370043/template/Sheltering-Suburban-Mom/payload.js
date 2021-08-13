@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Sheltering-Suburban-Mom", {data:[{}],fetch:[],mutations:[]});

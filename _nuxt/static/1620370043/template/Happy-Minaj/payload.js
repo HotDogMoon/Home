@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Happy-Minaj", {data:[{}],fetch:[],mutations:[]});

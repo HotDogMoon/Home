@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Dat-Boi", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Chuck-Norris-Phone", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Scary-Harry", {data:[{}],fetch:[],mutations:[]});

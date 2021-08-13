@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Jerkoff-Javert", {data:[{}],fetch:[],mutations:[]});

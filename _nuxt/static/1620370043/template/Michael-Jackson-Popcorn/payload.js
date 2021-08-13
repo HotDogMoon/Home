@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Michael-Jackson-Popcorn", {data:[{}],fetch:[],mutations:[]});

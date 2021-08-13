@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Blank-Blue-Background", {data:[{}],fetch:[],mutations:[]});

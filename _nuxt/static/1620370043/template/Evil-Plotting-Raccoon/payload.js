@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Evil-Plotting-Raccoon", {data:[{}],fetch:[],mutations:[]});

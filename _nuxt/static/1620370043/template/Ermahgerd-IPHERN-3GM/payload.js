@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Ermahgerd-IPHERN-3GM", {data:[{}],fetch:[],mutations:[]});

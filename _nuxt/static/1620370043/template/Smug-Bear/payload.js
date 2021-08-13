@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Smug-Bear", {data:[{}],fetch:[],mutations:[]});

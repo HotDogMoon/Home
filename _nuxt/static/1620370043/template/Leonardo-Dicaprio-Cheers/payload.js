@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Leonardo-Dicaprio-Cheers", {data:[{}],fetch:[],mutations:[]});

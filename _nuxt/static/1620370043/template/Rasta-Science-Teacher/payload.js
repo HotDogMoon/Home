@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Rasta-Science-Teacher", {data:[{}],fetch:[],mutations:[]});

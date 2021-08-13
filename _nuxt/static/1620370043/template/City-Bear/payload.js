@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/City-Bear", {data:[{}],fetch:[],mutations:[]});

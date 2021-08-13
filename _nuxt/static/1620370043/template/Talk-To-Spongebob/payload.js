@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Talk-To-Spongebob", {data:[{}],fetch:[],mutations:[]});

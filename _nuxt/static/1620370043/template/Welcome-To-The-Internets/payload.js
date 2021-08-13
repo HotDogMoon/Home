@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Welcome-To-The-Internets", {data:[{}],fetch:[],mutations:[]});

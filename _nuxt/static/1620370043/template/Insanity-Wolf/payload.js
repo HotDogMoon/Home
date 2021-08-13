@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Insanity-Wolf", {data:[{}],fetch:[],mutations:[]});

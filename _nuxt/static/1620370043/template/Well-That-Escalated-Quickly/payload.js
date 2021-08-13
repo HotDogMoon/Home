@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Well-That-Escalated-Quickly", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Dumb-Blonde", {data:[{}],fetch:[],mutations:[]});

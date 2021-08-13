@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Grumpy-Toad", {data:[{}],fetch:[],mutations:[]});

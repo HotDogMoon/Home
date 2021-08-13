@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Advice-God", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Scrooge-McDuck", {data:[{}],fetch:[],mutations:[]});

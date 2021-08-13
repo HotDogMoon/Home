@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Smilin-Biden", {data:[{}],fetch:[],mutations:[]});

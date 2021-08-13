@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Frustrated-Boromir", {data:[{}],fetch:[],mutations:[]});

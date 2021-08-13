@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Expanding-Brain", {data:[{}],fetch:[],mutations:[]});

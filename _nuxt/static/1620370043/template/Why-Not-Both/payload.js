@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Why-Not-Both", {data:[{}],fetch:[],mutations:[]});

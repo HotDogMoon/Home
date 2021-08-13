@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Be-Like-Bill", {data:[{}],fetch:[],mutations:[]});

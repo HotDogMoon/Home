@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Car-Salesman-Slaps-Hood", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/I-Have-No-Idea-What-I-Am-Doing", {data:[{}],fetch:[],mutations:[]});

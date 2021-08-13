@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Do-I-Care-Doe", {data:[{}],fetch:[],mutations:[]});

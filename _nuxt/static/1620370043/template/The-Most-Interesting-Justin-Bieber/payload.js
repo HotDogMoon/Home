@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/The-Most-Interesting-Justin-Bieber", {data:[{}],fetch:[],mutations:[]});

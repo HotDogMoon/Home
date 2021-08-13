@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/And-then-I-said-Obama", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Brian-Burke-On-The-Phone", {data:[{}],fetch:[],mutations:[]});

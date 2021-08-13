@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/True-Story", {data:[{}],fetch:[],mutations:[]});

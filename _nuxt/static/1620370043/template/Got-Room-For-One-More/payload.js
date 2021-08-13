@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Got-Room-For-One-More", {data:[{}],fetch:[],mutations:[]});

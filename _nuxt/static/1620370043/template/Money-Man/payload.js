@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Money-Man", {data:[{}],fetch:[],mutations:[]});

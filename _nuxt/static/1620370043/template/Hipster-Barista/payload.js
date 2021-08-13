@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Hipster-Barista", {data:[{}],fetch:[],mutations:[]});

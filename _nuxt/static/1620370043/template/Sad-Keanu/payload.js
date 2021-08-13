@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Sad-Keanu", {data:[{}],fetch:[],mutations:[]});

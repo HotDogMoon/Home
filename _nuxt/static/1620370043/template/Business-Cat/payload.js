@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Business-Cat", {data:[{}],fetch:[],mutations:[]});

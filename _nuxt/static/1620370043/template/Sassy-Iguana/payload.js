@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Sassy-Iguana", {data:[{}],fetch:[],mutations:[]});

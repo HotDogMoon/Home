@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Gasp-Rage-Face", {data:[{}],fetch:[],mutations:[]});

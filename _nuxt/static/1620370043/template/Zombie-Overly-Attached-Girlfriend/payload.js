@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Zombie-Overly-Attached-Girlfriend", {data:[{}],fetch:[],mutations:[]});

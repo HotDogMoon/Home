@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bad-Joke-Eel", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Barney-Stinson-Win", {data:[{}],fetch:[],mutations:[]});

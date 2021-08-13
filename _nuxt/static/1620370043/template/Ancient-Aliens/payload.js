@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Ancient-Aliens", {data:[{}],fetch:[],mutations:[]});

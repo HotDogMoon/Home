@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Im-Curious-Nappa", {data:[{}],fetch:[],mutations:[]});

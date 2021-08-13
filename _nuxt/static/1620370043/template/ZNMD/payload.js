@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/ZNMD", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Chainsaw-Bear", {data:[{}],fetch:[],mutations:[]});

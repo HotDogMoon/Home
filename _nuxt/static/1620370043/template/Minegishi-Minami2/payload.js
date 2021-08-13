@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Minegishi-Minami2", {data:[{}],fetch:[],mutations:[]});

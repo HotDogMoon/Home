@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bill-OReilly", {data:[{}],fetch:[],mutations:[]});

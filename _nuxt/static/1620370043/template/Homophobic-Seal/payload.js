@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Homophobic-Seal", {data:[{}],fetch:[],mutations:[]});

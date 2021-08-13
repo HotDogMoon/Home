@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/1st-World-Canadian-Problems", {data:[{}],fetch:[],mutations:[]});

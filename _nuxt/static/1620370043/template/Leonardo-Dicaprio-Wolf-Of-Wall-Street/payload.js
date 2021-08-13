@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Leonardo-Dicaprio-Wolf-Of-Wall-Street", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Determined-Guy-Rage-Face", {data:[{}],fetch:[],mutations:[]});

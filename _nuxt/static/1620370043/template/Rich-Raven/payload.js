@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Rich-Raven", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Butthurt-Dweller", {data:[{}],fetch:[],mutations:[]});

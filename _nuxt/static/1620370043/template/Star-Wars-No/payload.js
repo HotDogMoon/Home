@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Star-Wars-No", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Ill-Have-You-Know-Spongebob", {data:[{}],fetch:[],mutations:[]});

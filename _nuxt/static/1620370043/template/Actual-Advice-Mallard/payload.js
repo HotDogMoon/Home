@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Actual-Advice-Mallard", {data:[{}],fetch:[],mutations:[]});

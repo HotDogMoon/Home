@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/The-Rock-It-Doesnt-Matter", {data:[{}],fetch:[],mutations:[]});

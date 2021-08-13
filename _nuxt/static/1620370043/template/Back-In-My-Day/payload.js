@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Back-In-My-Day", {data:[{}],fetch:[],mutations:[]});

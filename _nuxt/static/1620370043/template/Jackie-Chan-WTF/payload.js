@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Jackie-Chan-WTF", {data:[{}],fetch:[],mutations:[]});

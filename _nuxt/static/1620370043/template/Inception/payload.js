@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Inception", {data:[{}],fetch:[],mutations:[]});

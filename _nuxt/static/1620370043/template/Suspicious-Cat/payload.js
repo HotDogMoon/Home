@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Suspicious-Cat", {data:[{}],fetch:[],mutations:[]});

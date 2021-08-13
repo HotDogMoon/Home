@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Waiting-Skeleton", {data:[{}],fetch:[],mutations:[]});

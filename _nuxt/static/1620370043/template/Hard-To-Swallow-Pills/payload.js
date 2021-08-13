@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Hard-To-Swallow-Pills", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Chubby-Bubbles-Girl", {data:[{}],fetch:[],mutations:[]});

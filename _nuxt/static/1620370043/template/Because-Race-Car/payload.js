@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Because-Race-Car", {data:[{}],fetch:[],mutations:[]});

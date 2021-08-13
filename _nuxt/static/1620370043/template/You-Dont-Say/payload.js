@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/You-Dont-Say", {data:[{}],fetch:[],mutations:[]});

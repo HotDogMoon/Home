@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Forever-Alone-Happy", {data:[{}],fetch:[],mutations:[]});

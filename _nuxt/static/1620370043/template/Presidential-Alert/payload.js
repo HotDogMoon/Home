@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Presidential-Alert", {data:[{}],fetch:[],mutations:[]});

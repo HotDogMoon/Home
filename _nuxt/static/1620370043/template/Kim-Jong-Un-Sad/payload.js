@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Kim-Jong-Un-Sad", {data:[{}],fetch:[],mutations:[]});

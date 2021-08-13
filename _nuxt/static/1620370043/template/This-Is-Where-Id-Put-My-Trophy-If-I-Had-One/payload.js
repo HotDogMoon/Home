@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/This-Is-Where-Id-Put-My-Trophy-If-I-Had-One", {data:[{}],fetch:[],mutations:[]});

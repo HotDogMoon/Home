@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Grumpy-Cat-Sky", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Computer-Horse", {data:[{}],fetch:[],mutations:[]});

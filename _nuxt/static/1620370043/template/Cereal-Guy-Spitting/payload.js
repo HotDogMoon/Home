@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Cereal-Guy-Spitting", {data:[{}],fetch:[],mutations:[]});

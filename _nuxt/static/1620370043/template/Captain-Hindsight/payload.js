@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Captain-Hindsight", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Pissed-Off-Obama", {data:[{}],fetch:[],mutations:[]});

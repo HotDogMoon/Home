@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Its-Not-Going-To-Happen", {data:[{}],fetch:[],mutations:[]});

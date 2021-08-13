@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Harry-Potter-Ok", {data:[{}],fetch:[],mutations:[]});

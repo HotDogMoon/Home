@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/First-Day-On-The-Internet-Kid", {data:[{}],fetch:[],mutations:[]});

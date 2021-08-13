@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/We-Will-Rebuild", {data:[{}],fetch:[],mutations:[]});

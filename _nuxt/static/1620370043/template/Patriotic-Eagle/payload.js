@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Patriotic-Eagle", {data:[{}],fetch:[],mutations:[]});

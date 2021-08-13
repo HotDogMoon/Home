@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/V-For-Vendetta", {data:[{}],fetch:[],mutations:[]});

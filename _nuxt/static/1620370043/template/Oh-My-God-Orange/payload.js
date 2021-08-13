@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Oh-My-God-Orange", {data:[{}],fetch:[],mutations:[]});

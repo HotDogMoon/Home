@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Blank-Nut-Button", {data:[{}],fetch:[],mutations:[]});

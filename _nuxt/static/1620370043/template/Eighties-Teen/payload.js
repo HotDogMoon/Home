@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Eighties-Teen", {data:[{}],fetch:[],mutations:[]});

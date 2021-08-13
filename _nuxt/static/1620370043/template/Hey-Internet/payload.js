@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Hey-Internet", {data:[{}],fetch:[],mutations:[]});

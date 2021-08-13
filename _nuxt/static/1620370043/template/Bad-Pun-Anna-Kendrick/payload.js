@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bad-Pun-Anna-Kendrick", {data:[{}],fetch:[],mutations:[]});

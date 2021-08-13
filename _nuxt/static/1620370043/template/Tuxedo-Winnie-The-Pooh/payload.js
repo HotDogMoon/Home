@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Tuxedo-Winnie-The-Pooh", {data:[{}],fetch:[],mutations:[]});

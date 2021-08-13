@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Dont-You-Squidward", {data:[{}],fetch:[],mutations:[]});

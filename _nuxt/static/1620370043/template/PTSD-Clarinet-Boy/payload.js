@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/PTSD-Clarinet-Boy", {data:[{}],fetch:[],mutations:[]});

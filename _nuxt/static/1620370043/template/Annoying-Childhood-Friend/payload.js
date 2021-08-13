@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Annoying-Childhood-Friend", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Alan-Greenspan", {data:[{}],fetch:[],mutations:[]});

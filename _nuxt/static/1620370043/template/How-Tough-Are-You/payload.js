@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/How-Tough-Are-You", {data:[{}],fetch:[],mutations:[]});

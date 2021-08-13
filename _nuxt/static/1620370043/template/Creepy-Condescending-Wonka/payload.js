@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Creepy-Condescending-Wonka", {data:[{}],fetch:[],mutations:[]});

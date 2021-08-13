@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mocking-Spongebob", {data:[{}],fetch:[],mutations:[]});

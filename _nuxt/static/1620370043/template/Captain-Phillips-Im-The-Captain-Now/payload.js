@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Captain-Phillips-Im-The-Captain-Now", {data:[{}],fetch:[],mutations:[]});

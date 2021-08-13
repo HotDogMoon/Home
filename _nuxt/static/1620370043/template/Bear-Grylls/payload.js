@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bear-Grylls", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Tough-Guy-Wanna-Be", {data:[{}],fetch:[],mutations:[]});

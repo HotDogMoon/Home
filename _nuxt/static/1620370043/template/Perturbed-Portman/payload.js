@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Perturbed-Portman", {data:[{}],fetch:[],mutations:[]});

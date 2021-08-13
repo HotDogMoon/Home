@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Evil-Kermit", {data:[{}],fetch:[],mutations:[]});

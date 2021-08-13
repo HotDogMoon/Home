@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Are-Your-Parents-Brother-And-Sister", {data:[{}],fetch:[],mutations:[]});

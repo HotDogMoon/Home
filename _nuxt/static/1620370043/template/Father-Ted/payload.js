@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Father-Ted", {data:[{}],fetch:[],mutations:[]});

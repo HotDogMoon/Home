@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Unpopular-Opinion-Puffin", {data:[{}],fetch:[],mutations:[]});

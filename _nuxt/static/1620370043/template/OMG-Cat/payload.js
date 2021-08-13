@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/OMG-Cat", {data:[{}],fetch:[],mutations:[]});

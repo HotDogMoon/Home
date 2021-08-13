@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Viking-Dudes", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Wrong-Neighboorhood-Cats", {data:[{}],fetch:[],mutations:[]});

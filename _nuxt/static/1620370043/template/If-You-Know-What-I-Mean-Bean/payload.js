@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/If-You-Know-What-I-Mean-Bean", {data:[{}],fetch:[],mutations:[]});

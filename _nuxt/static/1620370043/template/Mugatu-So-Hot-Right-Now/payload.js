@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mugatu-So-Hot-Right-Now", {data:[{}],fetch:[],mutations:[]});

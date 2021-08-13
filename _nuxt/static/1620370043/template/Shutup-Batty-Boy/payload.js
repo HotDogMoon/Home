@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Shutup-Batty-Boy", {data:[{}],fetch:[],mutations:[]});

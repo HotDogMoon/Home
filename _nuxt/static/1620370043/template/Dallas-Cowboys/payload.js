@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Dallas-Cowboys", {data:[{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Bah-Humbug", {data:[{}],fetch:[],mutations:[]});

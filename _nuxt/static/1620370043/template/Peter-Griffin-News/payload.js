@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Peter-Griffin-News", {data:[{}],fetch:[],mutations:[]});

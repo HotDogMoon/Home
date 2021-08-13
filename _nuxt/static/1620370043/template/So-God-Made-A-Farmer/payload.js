@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/So-God-Made-A-Farmer", {data:[{}],fetch:[],mutations:[]});

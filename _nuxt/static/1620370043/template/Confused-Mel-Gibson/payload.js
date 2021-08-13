@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Confused-Mel-Gibson", {data:[{}],fetch:[],mutations:[]});

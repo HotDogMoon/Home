@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Secure-Parking", {data:[{}],fetch:[],mutations:[]});

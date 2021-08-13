@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Annoying-Facebook-Girl", {data:[{}],fetch:[],mutations:[]});

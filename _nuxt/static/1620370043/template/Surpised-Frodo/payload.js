@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Surpised-Frodo", {data:[{}],fetch:[],mutations:[]});

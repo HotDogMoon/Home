@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Awkward-Moment-Sealion", {data:[{}],fetch:[],mutations:[]});

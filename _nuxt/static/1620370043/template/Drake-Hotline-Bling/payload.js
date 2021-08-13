@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Drake-Hotline-Bling", {data:[{}],fetch:[],mutations:[]});

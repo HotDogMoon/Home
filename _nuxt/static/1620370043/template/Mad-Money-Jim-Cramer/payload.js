@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template/Mad-Money-Jim-Cramer", {data:[{}],fetch:[],mutations:[]});
