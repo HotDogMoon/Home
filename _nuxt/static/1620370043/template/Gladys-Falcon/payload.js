@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Gladys-Falcon", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Lion-King", {data:[{}],fetch:[],mutations:[]});

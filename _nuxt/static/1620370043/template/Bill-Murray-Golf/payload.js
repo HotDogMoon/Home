@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Bill-Murray-Golf", {data:[{}],fetch:[],mutations:[]});

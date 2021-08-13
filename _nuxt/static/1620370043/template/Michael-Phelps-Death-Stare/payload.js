@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Michael-Phelps-Death-Stare", {data:[{}],fetch:[],mutations:[]});

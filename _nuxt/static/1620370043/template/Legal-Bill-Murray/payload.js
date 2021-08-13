@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Legal-Bill-Murray", {data:[{}],fetch:[],mutations:[]});

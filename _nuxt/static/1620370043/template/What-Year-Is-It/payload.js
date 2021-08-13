@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/What-Year-Is-It", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Say-That-Again-I-Dare-You", {data:[{}],fetch:[],mutations:[]});

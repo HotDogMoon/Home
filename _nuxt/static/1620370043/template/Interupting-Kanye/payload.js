@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Interupting-Kanye", {data:[{}],fetch:[],mutations:[]});

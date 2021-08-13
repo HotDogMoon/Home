@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Impossibru-Guy-Original", {data:[{}],fetch:[],mutations:[]});

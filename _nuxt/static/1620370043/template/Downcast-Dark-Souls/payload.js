@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Downcast-Dark-Souls", {data:[{}],fetch:[],mutations:[]});

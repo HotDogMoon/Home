@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Mitch-McConnell", {data:[{}],fetch:[],mutations:[]});

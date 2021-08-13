@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Hora-Extra", {data:[{}],fetch:[],mutations:[]});

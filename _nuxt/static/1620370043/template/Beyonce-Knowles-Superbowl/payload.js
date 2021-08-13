@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Beyonce-Knowles-Superbowl", {data:[{}],fetch:[],mutations:[]});

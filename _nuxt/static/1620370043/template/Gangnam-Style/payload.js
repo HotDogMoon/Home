@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Gangnam-Style", {data:[{}],fetch:[],mutations:[]});

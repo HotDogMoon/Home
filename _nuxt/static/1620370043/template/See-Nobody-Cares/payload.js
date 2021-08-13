@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/See-Nobody-Cares", {data:[{}],fetch:[],mutations:[]});

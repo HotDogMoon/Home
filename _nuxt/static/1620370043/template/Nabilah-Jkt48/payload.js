@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Nabilah-Jkt48", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Unwanted-House-Guest", {data:[{}],fetch:[],mutations:[]});

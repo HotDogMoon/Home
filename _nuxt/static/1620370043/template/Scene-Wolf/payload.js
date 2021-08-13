@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Scene-Wolf", {data:[{}],fetch:[],mutations:[]});

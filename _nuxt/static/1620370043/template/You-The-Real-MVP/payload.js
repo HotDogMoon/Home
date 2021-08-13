@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/You-The-Real-MVP", {data:[{}],fetch:[],mutations:[]});

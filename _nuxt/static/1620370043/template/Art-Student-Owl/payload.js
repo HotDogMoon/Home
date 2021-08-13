@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Art-Student-Owl", {data:[{}],fetch:[],mutations:[]});

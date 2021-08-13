@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Warning-Sign", {data:[{}],fetch:[],mutations:[]});

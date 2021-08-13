@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Heavy-Breathing-Cat", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Internet-Guide", {data:[{}],fetch:[],mutations:[]});

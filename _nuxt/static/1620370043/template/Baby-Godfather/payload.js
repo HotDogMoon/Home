@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Baby-Godfather", {data:[{}],fetch:[],mutations:[]});

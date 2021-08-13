@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/1950s-Middle-Finger", {data:[{}],fetch:[],mutations:[]});

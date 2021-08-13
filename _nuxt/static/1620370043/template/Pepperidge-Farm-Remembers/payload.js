@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Pepperidge-Farm-Remembers", {data:[{}],fetch:[],mutations:[]});

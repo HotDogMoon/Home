@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/And-everybody-loses-their-minds", {data:[{}],fetch:[],mutations:[]});

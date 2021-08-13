@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Obi-Wan-Kenobi", {data:[{}],fetch:[],mutations:[]});

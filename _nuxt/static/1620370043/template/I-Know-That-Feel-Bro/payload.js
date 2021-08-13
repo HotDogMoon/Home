@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/I-Know-That-Feel-Bro", {data:[{}],fetch:[],mutations:[]});

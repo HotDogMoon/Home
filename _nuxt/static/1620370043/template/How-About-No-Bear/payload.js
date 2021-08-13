@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/How-About-No-Bear", {data:[{}],fetch:[],mutations:[]});

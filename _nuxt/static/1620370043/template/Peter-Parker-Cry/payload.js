@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Peter-Parker-Cry", {data:[{}],fetch:[],mutations:[]});

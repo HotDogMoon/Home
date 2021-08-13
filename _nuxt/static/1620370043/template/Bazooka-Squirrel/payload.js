@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Bazooka-Squirrel", {data:[{}],fetch:[],mutations:[]});

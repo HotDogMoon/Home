@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Alarm-Clock", {data:[{}],fetch:[],mutations:[]});

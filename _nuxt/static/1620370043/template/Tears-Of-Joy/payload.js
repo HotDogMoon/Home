@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Tears-Of-Joy", {data:[{}],fetch:[],mutations:[]});

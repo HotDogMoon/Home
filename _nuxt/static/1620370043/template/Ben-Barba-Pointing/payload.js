@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Ben-Barba-Pointing", {data:[{}],fetch:[],mutations:[]});

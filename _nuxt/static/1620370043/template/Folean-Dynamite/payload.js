@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Folean-Dynamite", {data:[{}],fetch:[],mutations:[]});

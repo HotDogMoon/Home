@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Maroney-And-Obama-Not-Impressed", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Too-Damn-High", {data:[{}],fetch:[],mutations:[]});

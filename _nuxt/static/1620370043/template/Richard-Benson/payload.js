@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Richard-Benson", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Rick-Grimes", {data:[{}],fetch:[],mutations:[]});

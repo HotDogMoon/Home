@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Advice-Dog", {data:[{}],fetch:[],mutations:[]});

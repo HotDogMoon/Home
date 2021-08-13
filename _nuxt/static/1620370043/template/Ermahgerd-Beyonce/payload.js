@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Ermahgerd-Beyonce", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Short-Satisfaction-VS-Truth", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Error-404", {data:[{}],fetch:[],mutations:[]});

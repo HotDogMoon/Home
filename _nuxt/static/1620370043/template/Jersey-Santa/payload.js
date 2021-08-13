@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Jersey-Santa", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Jesus-Talking-To-Cool-Dude", {data:[{}],fetch:[],mutations:[]});

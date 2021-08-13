@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Super-Cool-Ski-Instructor", {data:[{}],fetch:[],mutations:[]});

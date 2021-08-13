@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/So-Much-Drama", {data:[{}],fetch:[],mutations:[]});

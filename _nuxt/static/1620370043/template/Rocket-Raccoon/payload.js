@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Rocket-Raccoon", {data:[{}],fetch:[],mutations:[]});

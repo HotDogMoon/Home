@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Dwight-Schrute", {data:[{}],fetch:[],mutations:[]});

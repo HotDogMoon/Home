@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Family-Tech-Support-Guy", {data:[{}],fetch:[],mutations:[]});

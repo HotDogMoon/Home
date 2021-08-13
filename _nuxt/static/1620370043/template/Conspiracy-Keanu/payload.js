@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Conspiracy-Keanu", {data:[{}],fetch:[],mutations:[]});

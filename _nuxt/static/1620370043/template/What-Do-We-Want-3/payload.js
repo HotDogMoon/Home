@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/What-Do-We-Want-3", {data:[{}],fetch:[],mutations:[]});

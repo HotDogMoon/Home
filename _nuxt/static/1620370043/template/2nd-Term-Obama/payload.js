@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/2nd-Term-Obama", {data:[{}],fetch:[],mutations:[]});

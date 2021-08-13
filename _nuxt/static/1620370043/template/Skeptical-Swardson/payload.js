@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Skeptical-Swardson", {data:[{}],fetch:[],mutations:[]});

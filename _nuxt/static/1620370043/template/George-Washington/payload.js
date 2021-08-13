@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/George-Washington", {data:[{}],fetch:[],mutations:[]});

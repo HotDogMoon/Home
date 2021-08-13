@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Grandma-Finds-The-Internet", {data:[{}],fetch:[],mutations:[]});

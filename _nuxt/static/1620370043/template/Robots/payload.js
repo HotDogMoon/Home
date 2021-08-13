@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Robots", {data:[{}],fetch:[],mutations:[]});

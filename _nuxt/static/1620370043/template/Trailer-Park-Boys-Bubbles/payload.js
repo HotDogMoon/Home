@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Trailer-Park-Boys-Bubbles", {data:[{}],fetch:[],mutations:[]});

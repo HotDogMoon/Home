@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Weird-Stuff-I-Do-Potoo", {data:[{}],fetch:[],mutations:[]});

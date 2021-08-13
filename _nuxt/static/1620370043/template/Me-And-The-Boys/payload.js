@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Me-And-The-Boys", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Grumpy-Cat-Does-Not-Believe", {data:[{}],fetch:[],mutations:[]});

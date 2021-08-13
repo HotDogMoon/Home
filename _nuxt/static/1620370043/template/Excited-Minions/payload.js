@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Excited-Minions", {data:[{}],fetch:[],mutations:[]});

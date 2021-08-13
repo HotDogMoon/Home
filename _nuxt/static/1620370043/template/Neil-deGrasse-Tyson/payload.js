@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Neil-deGrasse-Tyson", {data:[{}],fetch:[],mutations:[]});

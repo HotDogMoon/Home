@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Photogenic-College-Football-Player", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Fifa-E-Call-Of-Duty", {data:[{}],fetch:[],mutations:[]});

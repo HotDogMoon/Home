@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Over-Educated-Problems", {data:[{}],fetch:[],mutations:[]});

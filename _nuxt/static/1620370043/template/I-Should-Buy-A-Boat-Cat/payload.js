@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/I-Should-Buy-A-Boat-Cat", {data:[{}],fetch:[],mutations:[]});

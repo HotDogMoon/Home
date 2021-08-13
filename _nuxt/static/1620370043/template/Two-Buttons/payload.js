@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Two-Buttons", {data:[{}],fetch:[],mutations:[]});

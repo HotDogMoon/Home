@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/The-Scroll-Of-Truth", {data:[{}],fetch:[],mutations:[]});

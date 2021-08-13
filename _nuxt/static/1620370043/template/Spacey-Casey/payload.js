@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Spacey-Casey", {data:[{}],fetch:[],mutations:[]});

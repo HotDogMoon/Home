@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Comic-Book-Guy", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Speechless-Colbert-Face", {data:[{}],fetch:[],mutations:[]});

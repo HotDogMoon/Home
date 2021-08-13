@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Ugly-Twins", {data:[{}],fetch:[],mutations:[]});

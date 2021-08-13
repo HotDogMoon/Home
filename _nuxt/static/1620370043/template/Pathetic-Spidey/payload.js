@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Pathetic-Spidey", {data:[{}],fetch:[],mutations:[]});

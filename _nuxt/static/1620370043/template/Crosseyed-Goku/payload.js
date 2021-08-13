@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Crosseyed-Goku", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Young-And-Reckless", {data:[{}],fetch:[],mutations:[]});

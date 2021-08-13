@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Romneys-Hindenberg", {data:[{}],fetch:[],mutations:[]});

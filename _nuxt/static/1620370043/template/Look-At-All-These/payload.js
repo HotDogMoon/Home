@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Look-At-All-These", {data:[{}],fetch:[],mutations:[]});

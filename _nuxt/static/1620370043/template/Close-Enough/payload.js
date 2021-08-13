@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Close-Enough", {data:[{}],fetch:[],mutations:[]});

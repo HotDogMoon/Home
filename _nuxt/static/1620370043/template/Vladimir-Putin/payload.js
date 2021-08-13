@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Vladimir-Putin", {data:[{}],fetch:[],mutations:[]});

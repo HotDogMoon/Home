@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Small-Face-Romney", {data:[{}],fetch:[],mutations:[]});

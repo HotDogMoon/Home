@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Joker-Rainbow-Hands", {data:[{}],fetch:[],mutations:[]});

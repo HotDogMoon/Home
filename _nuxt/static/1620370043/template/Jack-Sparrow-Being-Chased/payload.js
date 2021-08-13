@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Jack-Sparrow-Being-Chased", {data:[{}],fetch:[],mutations:[]});

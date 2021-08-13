@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Inhaling-Seagull", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Confused-Gandalf", {data:[{}],fetch:[],mutations:[]});

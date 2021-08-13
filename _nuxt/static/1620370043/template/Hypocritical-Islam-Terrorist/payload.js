@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Hypocritical-Islam-Terrorist", {data:[{}],fetch:[],mutations:[]});

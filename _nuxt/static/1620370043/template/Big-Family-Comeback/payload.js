@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Big-Family-Comeback", {data:[{}],fetch:[],mutations:[]});

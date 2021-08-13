@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Scumbag-Daylight-Savings-Time", {data:[{}],fetch:[],mutations:[]});

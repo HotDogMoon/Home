@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Seriously-Face", {data:[{}],fetch:[],mutations:[]});

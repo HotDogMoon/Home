@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Albert-Einstein-1", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Marked-Safe-From", {data:[{}],fetch:[],mutations:[]});

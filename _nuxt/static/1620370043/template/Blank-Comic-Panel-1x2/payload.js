@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Blank-Comic-Panel-1x2", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Yao-Ming", {data:[{}],fetch:[],mutations:[]});

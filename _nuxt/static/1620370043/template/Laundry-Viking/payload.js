@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Laundry-Viking", {data:[{}],fetch:[],mutations:[]});

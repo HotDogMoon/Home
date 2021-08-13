@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/I-Will-Find-You-And-Kill-You", {data:[{}],fetch:[],mutations:[]});

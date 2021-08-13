@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Wrong-Number-Rita", {data:[{}],fetch:[],mutations:[]});

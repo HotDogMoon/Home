@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Fim-De-Semana", {data:[{}],fetch:[],mutations:[]});

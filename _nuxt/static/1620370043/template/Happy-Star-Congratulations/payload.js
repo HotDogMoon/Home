@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Happy-Star-Congratulations", {data:[{}],fetch:[],mutations:[]});

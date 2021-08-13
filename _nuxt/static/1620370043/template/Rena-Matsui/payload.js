@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Rena-Matsui", {data:[{}],fetch:[],mutations:[]});

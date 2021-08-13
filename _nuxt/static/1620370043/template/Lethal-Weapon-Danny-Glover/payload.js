@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Lethal-Weapon-Danny-Glover", {data:[{}],fetch:[],mutations:[]});

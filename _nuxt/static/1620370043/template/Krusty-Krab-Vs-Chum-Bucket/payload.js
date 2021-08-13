@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Krusty-Krab-Vs-Chum-Bucket", {data:[{}],fetch:[],mutations:[]});

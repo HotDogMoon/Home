@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Mr-T", {data:[{}],fetch:[],mutations:[]});

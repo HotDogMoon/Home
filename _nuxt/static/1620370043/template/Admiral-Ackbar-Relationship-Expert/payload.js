@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Admiral-Ackbar-Relationship-Expert", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Obama-No-Listen", {data:[{}],fetch:[],mutations:[]});

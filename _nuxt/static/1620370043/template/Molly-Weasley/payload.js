@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Molly-Weasley", {data:[{}],fetch:[],mutations:[]});

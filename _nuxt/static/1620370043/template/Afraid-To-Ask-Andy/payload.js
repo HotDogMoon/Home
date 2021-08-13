@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Afraid-To-Ask-Andy", {data:[{}],fetch:[],mutations:[]});

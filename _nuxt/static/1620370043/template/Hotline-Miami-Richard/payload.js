@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Hotline-Miami-Richard", {data:[{}],fetch:[],mutations:[]});

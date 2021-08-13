@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Mega-Rage-Face", {data:[{}],fetch:[],mutations:[]});

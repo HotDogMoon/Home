@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Brian-Williams-Was-There-2", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Darth-Maul", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Anti-Joke-Chicken", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Overly-Attached-Father", {data:[{}],fetch:[],mutations:[]});

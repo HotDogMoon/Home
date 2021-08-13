@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Super-Kami-Guru-Allows-This", {data:[{}],fetch:[],mutations:[]});

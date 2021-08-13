@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Foal-Of-Mine", {data:[{}],fetch:[],mutations:[]});

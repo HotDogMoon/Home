@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Confession-Bear", {data:[{}],fetch:[],mutations:[]});

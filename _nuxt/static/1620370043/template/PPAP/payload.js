@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/PPAP", {data:[{}],fetch:[],mutations:[]});

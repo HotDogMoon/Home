@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Spiderman-Laugh", {data:[{}],fetch:[],mutations:[]});

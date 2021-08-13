@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Its-Finally-Over", {data:[{}],fetch:[],mutations:[]});

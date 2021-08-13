@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Bitch-Please", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Rob-In-The-Hood", {data:[{}],fetch:[],mutations:[]});

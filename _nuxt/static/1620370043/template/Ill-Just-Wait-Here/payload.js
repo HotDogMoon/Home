@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Ill-Just-Wait-Here", {data:[{}],fetch:[],mutations:[]});

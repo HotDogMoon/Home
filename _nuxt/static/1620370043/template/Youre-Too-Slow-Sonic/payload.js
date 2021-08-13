@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Youre-Too-Slow-Sonic", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Am-I-The-Only-One-Around-Here", {data:[{}],fetch:[],mutations:[]});

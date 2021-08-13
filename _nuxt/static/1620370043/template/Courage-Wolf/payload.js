@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Courage-Wolf", {data:[{}],fetch:[],mutations:[]});

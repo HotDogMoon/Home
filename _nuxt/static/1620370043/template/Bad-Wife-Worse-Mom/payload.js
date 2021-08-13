@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Bad-Wife-Worse-Mom", {data:[{}],fetch:[],mutations:[]});

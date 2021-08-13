@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Downvoting-Roman", {data:[{}],fetch:[],mutations:[]});

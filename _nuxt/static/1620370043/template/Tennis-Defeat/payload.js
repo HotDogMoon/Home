@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Tennis-Defeat", {data:[{}],fetch:[],mutations:[]});

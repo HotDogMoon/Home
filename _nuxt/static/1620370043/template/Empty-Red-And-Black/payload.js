@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Empty-Red-And-Black", {data:[{}],fetch:[],mutations:[]});

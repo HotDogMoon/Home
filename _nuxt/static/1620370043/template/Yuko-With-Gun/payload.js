@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Yuko-With-Gun", {data:[{}],fetch:[],mutations:[]});

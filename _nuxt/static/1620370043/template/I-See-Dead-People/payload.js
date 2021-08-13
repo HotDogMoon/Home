@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/I-See-Dead-People", {data:[{}],fetch:[],mutations:[]});

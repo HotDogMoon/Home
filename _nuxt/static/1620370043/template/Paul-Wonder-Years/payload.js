@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Paul-Wonder-Years", {data:[{}],fetch:[],mutations:[]});

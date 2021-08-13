@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Barbosa-And-Sparrow", {data:[{}],fetch:[],mutations:[]});

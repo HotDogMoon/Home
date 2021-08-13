@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Too-Drunk-At-Party-Tina", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Helpful-Tyler-Durden", {data:[{}],fetch:[],mutations:[]});

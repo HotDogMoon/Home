@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Penguin-Gang", {data:[{}],fetch:[],mutations:[]});

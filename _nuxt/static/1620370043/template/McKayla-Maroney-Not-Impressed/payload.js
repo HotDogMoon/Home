@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/McKayla-Maroney-Not-Impressed", {data:[{}],fetch:[],mutations:[]});

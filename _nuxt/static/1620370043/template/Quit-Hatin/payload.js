@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Quit-Hatin", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Sudden-Clarity-Clarence", {data:[{}],fetch:[],mutations:[]});

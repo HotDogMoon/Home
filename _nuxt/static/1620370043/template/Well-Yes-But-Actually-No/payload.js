@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Well-Yes-But-Actually-No", {data:[{}],fetch:[],mutations:[]});

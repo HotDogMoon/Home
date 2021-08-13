@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Dr-Evil", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Troll-Face", {data:[{}],fetch:[],mutations:[]});

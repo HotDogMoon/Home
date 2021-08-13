@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/You-Dont-Want-No-Part-Of-This", {data:[{}],fetch:[],mutations:[]});

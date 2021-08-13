@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Jon-Stewart-Skeptical", {data:[{}],fetch:[],mutations:[]});

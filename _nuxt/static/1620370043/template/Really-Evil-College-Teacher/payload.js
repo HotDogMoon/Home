@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Really-Evil-College-Teacher", {data:[{}],fetch:[],mutations:[]});

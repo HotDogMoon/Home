@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Chill-Out-Lemur", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Disappointed-Tyson", {data:[{}],fetch:[],mutations:[]});

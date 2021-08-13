@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Why-Is-The-Rum-Gone", {data:[{}],fetch:[],mutations:[]});

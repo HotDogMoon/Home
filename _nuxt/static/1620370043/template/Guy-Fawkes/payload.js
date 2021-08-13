@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Guy-Fawkes", {data:[{}],fetch:[],mutations:[]});

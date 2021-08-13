@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Mr-Krabs-Blur-Meme", {data:[{}],fetch:[],mutations:[]});

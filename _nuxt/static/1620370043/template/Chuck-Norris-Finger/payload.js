@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Chuck-Norris-Finger", {data:[{}],fetch:[],mutations:[]});

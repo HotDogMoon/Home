@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Fear-And-Loathing-Cat", {data:[{}],fetch:[],mutations:[]});

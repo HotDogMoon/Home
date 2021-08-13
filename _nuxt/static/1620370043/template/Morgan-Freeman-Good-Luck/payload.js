@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Morgan-Freeman-Good-Luck", {data:[{}],fetch:[],mutations:[]});

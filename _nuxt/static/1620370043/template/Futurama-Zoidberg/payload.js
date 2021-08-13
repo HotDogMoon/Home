@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Futurama-Zoidberg", {data:[{}],fetch:[],mutations:[]});

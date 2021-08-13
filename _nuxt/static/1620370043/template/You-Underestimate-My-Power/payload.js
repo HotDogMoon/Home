@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/You-Underestimate-My-Power", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Spongegar", {data:[{}],fetch:[],mutations:[]});

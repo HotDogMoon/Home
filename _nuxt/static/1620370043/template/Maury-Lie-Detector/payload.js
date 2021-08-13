@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Maury-Lie-Detector", {data:[{}],fetch:[],mutations:[]});

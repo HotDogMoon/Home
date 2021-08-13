@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Pony-Shrugs", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Hillary-Clinton-Cellphone", {data:[{}],fetch:[],mutations:[]});

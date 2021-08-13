@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Success-Kid-Girl", {data:[{}],fetch:[],mutations:[]});

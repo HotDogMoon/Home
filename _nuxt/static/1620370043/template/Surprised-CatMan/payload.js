@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Surprised-CatMan", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Sidious-Error", {data:[{}],fetch:[],mutations:[]});

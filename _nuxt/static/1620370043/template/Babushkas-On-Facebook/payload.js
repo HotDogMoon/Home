@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Babushkas-On-Facebook", {data:[{}],fetch:[],mutations:[]});

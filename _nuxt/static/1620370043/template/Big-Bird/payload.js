@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Big-Bird", {data:[{}],fetch:[],mutations:[]});

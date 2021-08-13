@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Sexy-Railroad-Spiderman", {data:[{}],fetch:[],mutations:[]});

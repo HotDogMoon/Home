@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/LIGAF", {data:[{}],fetch:[],mutations:[]});

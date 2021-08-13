@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/First-World-Problems", {data:[{}],fetch:[],mutations:[]});

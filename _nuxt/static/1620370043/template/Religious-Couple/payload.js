@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Religious-Couple", {data:[{}],fetch:[],mutations:[]});

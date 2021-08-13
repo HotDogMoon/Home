@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Han-Solo", {data:[{}],fetch:[],mutations:[]});

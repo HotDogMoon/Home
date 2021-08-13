@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Psy-Horse-Dance", {data:[{}],fetch:[],mutations:[]});

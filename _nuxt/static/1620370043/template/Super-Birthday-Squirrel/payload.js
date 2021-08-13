@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Super-Birthday-Squirrel", {data:[{}],fetch:[],mutations:[]});

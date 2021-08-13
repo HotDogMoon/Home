@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Priority-Peter", {data:[{}],fetch:[],mutations:[]});

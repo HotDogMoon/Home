@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Scumbag-Redditor", {data:[{}],fetch:[],mutations:[]});

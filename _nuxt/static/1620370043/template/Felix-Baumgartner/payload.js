@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Felix-Baumgartner", {data:[{}],fetch:[],mutations:[]});

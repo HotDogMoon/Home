@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Simba-Shadowy-Place", {data:[{}],fetch:[],mutations:[]});

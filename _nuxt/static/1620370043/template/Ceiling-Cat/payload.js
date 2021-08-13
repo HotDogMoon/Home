@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Ceiling-Cat", {data:[{}],fetch:[],mutations:[]});

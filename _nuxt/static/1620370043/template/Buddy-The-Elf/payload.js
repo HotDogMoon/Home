@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Buddy-The-Elf", {data:[{}],fetch:[],mutations:[]});

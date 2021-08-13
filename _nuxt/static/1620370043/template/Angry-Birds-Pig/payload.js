@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Angry-Birds-Pig", {data:[{}],fetch:[],mutations:[]});

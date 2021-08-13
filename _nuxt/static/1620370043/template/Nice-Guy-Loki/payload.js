@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Nice-Guy-Loki", {data:[{}],fetch:[],mutations:[]});

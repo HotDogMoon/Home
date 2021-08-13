@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/BANE-AND-BRUCE", {data:[{}],fetch:[],mutations:[]});

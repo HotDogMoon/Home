@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Serious-Xzibit", {data:[{}],fetch:[],mutations:[]});

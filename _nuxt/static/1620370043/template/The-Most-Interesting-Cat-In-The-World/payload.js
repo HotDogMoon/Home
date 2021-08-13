@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/The-Most-Interesting-Cat-In-The-World", {data:[{}],fetch:[],mutations:[]});

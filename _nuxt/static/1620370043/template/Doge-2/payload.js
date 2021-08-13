@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Doge-2", {data:[{}],fetch:[],mutations:[]});

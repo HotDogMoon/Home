@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Idiot-Nerd-Girl", {data:[{}],fetch:[],mutations:[]});

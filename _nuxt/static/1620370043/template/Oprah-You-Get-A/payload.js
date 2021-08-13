@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Oprah-You-Get-A", {data:[{}],fetch:[],mutations:[]});

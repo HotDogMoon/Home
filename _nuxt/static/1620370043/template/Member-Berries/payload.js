@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Member-Berries", {data:[{}],fetch:[],mutations:[]});

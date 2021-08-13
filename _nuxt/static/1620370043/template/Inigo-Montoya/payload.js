@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Inigo-Montoya", {data:[{}],fetch:[],mutations:[]});

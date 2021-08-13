@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Hide-Yo-Kids-Hide-Yo-Wife", {data:[{}],fetch:[],mutations:[]});

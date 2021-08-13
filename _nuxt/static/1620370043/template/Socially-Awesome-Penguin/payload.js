@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Socially-Awesome-Penguin", {data:[{}],fetch:[],mutations:[]});

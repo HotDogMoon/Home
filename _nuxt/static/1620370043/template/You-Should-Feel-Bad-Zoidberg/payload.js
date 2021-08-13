@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/You-Should-Feel-Bad-Zoidberg", {data:[{}],fetch:[],mutations:[]});

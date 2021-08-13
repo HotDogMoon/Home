@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Booty-Warrior", {data:[{}],fetch:[],mutations:[]});

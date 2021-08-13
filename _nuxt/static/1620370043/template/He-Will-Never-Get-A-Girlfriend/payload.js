@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/He-Will-Never-Get-A-Girlfriend", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Billy-Graham-Mitt-Romney", {data:[{}],fetch:[],mutations:[]});

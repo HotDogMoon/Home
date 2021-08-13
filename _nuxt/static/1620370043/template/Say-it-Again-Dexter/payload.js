@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Say-it-Again-Dexter", {data:[{}],fetch:[],mutations:[]});

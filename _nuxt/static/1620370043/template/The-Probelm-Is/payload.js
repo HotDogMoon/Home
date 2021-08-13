@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/The-Probelm-Is", {data:[{}],fetch:[],mutations:[]});

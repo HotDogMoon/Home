@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Zoidberg-Jesus", {data:[{}],fetch:[],mutations:[]});

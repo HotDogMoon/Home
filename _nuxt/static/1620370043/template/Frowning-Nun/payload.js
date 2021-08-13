@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Frowning-Nun", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template/Pickup-Line-Panda", {data:[{}],fetch:[],mutations:[]});
